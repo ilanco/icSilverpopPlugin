@@ -1,0 +1,5 @@
+# default values
+default:
+    icSilverpopPlugin:
+        endpoint: http://api1.silverpop.com/XMLAPI
+
